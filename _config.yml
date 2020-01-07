@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings 作者设置
 author: moliy # 添加你的名字
 author-pic: moliy-face.jpg # 头像
-about-author: # 个人介绍
+about-author: My name is moliy  # 个人介绍
 
 # Contact links 社交账号
 email: i@moliyjin.com # 添加你的电子邮箱
